@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m passionate about transforming raw data into actionable insights and building intelligent systems that create real-world impact. With expertise in machine learning, AI model development, data visualization, and predictive analytics, I help organizations leverage data to make smarter, faster decisions.
 
 <!--
 **parth-visualize/parth-visualize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

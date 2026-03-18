@@ -25,7 +25,6 @@ I’m passionate about transforming raw data into actionable insights and buildi
 
 - 🔍 Specialized in **Data Analysis**, **Machine Learning** & **Predictive Analytics**
 - 📊 I build **dashboards & visual stories** that help organizations make smarter, faster decisions
-- 🤖 Experienced in **AI model development** and end-to-end data pipelines
 - 📚 Currently sharpening skills in **Advanced ML** and **Business Intelligence**
 - 💼 Open to **Data Analyst · Data Scientist · ML Engineer** opportunities
 

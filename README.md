@@ -1,6 +1,4 @@
 <h1 align="center">Hi there, I'm Parth! 👋</h1>
-I’m passionate about transforming raw data into actionable insights and building intelligent systems that create real-world impact. With expertise in machine learning, AI model development, data visualization, and predictive analytics, I help organizations leverage data to make smarter, faster decisions.
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Enthusiast;Turning+Raw+Data+into+Real+Impact;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
@@ -21,7 +19,8 @@ I’m passionate about transforming raw data into actionable insights and buildi
 
 ### 🚀 About Me
 
-> 🎯 *Passionate about transforming raw data into actionable insights and building intelligent systems that create real-world impact.*
+> 🎯 *I’m passionate about transforming raw data into actionable insights and building intelligent systems that create real-world impact. With expertise in machine learning, AI model development, data visualization, and predictive analytics, I help organizations leverage data to make smarter, faster decisions.
+*
 
 - 🔍 Specialized in **Data Analysis**, **Machine Learning** & **Predictive Analytics**
 - 📊 I build **dashboards & visual stories** that help organizations make smarter, faster decisions

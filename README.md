@@ -19,8 +19,7 @@
 
 ### 🚀 About Me
 
-> 🎯 *I’m passionate about transforming raw data into actionable insights and building intelligent systems that create real-world impact. With expertise in machine learning, AI model development, data visualization, and predictive analytics, I help organizations leverage data to make smarter, faster decisions.
-*
+> 🎯 *I’m passionate about transforming raw data into actionable insights and building intelligent systems that create real-world impact. With expertise in machine learning, AI model development, data visualization, and predictive analytics, I help organizations leverage data to make smarter, faster decisions.*
 
 - 🔍 Specialized in **Data Analysis**, **Machine Learning** & **Predictive Analytics**
 - 📊 I build **dashboards & visual stories** that help organizations make smarter, faster decisions

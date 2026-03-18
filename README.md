@@ -69,21 +69,3 @@ I’m passionate about transforming raw data into actionable insights and buildi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=parth-visualize&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parth-visualize&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parth-visualize&label=Profile+Views&color=F7A400&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
-</p>

@@ -54,16 +54,3 @@
 | [☕ Coffee Shop Sales Analysis](https://github.com/parth-visualize) | Sales trend analysis across 3 NYC outlets — 149K transactions, revenue insights & dashboard | Excel, Pivot Tables |
 | [🍔 Swiggy Outlet Data Analysis](https://github.com/parth-visualize/swiggy-outlet-data-anaylsis) | EDA on 118 Bangalore restaurant outlets — ratings, pricing & cuisine trends | Python, Pandas, Plotly |
 | [📚 Online Book Store SQL](https://github.com/parth-visualize) | End-to-end SQL project with 19 business queries on books, customers & orders | MySQL |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-visualize&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-visualize&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parth-visualize&theme=tokyonight&hide_border=true" width="60%"/>
-</p>

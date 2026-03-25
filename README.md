@@ -51,6 +51,6 @@
 
 | 🗂️ Project | 📋 Description | 🛠️ Tools |
 |---|---|---|
-| [Netflix Data Analysis (EDA)](https://github.com/parth-visualize/netflix-data-analysis) | Content trends over the years, revenue insights & dashboard | Distribution of Movies vs TV Shows|
+| [Netflix Data Analysis (EDA)](https://github.com/parth-visualize/netflix-data-analysis) | Content trends over the years, revenue insights & dashboard | Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly|
 | [🍔 Swiggy Outlet Data Analysis](https://github.com/parth-visualize/swiggy-outlet-data-anaylsis) | EDA on 118 Bangalore restaurant outlets — ratings, pricing & cuisine trends | Python, Pandas, Plotly |
 | [📚 Online Book Store SQL](https://github.com/parth-visualize/sql-online-book-store-project) | End-to-end SQL project with 19 business queries on books, customers & orders | MySQL |

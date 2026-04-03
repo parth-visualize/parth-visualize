@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Parth! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Engineer;Turning+Raw+Data+into+Real+Impact;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Data+Scienctist+%7c+Data+Analyst+%7C+ML+Engineer;Turning+Raw+Data+into+Real+Impact;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">

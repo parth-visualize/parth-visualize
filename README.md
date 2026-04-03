@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Parth! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scienctist+%7c+ML+Engineer;Turning+Raw+Data+into+Real+Impact;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Data+Scienctist+%7c+Data+Analyst+%7C+ML+Engineer;Turning+Raw+Data+into+Real+Impact;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -52,5 +52,5 @@
 | 🗂️ Project | 📋 Description | 🛠️ Tools |
 |---|---|---|
 | [Netflix Data Analysis (EDA)](https://github.com/parth-visualize/netflix-data-analysis) | Content trends over the years, revenue insights & dashboard | Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly|
-| [🍔 Swiggy Outlet Data Analysis](https://github.com/parth-visualize/swiggy-outlet-data-anaylsis) | EDA on 118 Bangalore restaurant outlets — ratings, pricing & cuisine trends | Python, Pandas, Plotly |
+| [🍔 Swiggy Excel Dashboard](https://github.com/parth-visualize/Swiggy-Sales-Dashboard-Excel) | Excel dashboard built to analyze and visualize Swiggy food delivery sales data | Excel, Pivot Tables | Pivot Charts | Excel Dashboard |
 | [📚 Online Book Store SQL](https://github.com/parth-visualize/sql-online-book-store-project) | End-to-end SQL project with 19 business queries on books, customers & orders | MySQL |
